@@ -1,0 +1,32 @@
+#content{
+	position: absolute;
+	left: 25%;
+	top: 30%;
+}
+
+#content a{
+	text-decoration: none;
+	display: inline-block;
+	width: 300px;
+	height: auto;
+	margin: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+	font-size: 20px;
+	padding: 3px;
+
+}
+
+#content img{
+	border-radius: 10px;
+	border:1px solid #bbb;
+	padding: 3px;
+	box-shadow: 0 0 5px rgba(0,0,0,0.4);
+	margin-bottom: 15px;
+}
+
+#content a:hover,a:active{
+	filter: alpha(opacity=60);
+	opacity: 0.6;
+}

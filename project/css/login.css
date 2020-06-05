@@ -1,0 +1,70 @@
+.content{
+	position: absolute;
+	left: 30%;
+	top: 32%;
+	height: 450px;
+}
+
+.content .login a{
+	text-decoration: underline;
+}
+
+.content h3{
+	position: relative;
+	left: -200px;
+	top: -20px;
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
+.choosetype{
+	position: relative;
+	left: -120px;
+	font-size: 18px;
+	padding: 10px;
+}
+
+.content input{
+	font-size: 18px;
+	padding: 5px;
+	padding-left: 15px;
+	margin: 10px;
+	background-color: rgba(210, 215, 255, 0.25);
+	border-width: 1px;
+	border-radius: 5px;
+}
+
+.content input[type="text"]{
+	position: relative;
+	left: 65px;
+	width: 260px;
+}
+
+.content input[type="password"]{
+	position: relative;
+	left: 65px;
+	width: 260px;
+}
+
+.content input[type="submit"]{
+	position: relative;
+	left: -120px;
+	top: 50px;
+	padding: 10px 20px 10px 20px;
+	background-color: rgba(180, 200, 250, 0.4);
+}
+
+#form1 span{
+	position: absolute;
+	left: -120px;
+	font-size: 18px;
+	margin: 15px;
+}
+
+#form2 span{
+	position: absolute;
+	left: -120px;
+	font-size: 18px;
+	margin: 15px;
+}

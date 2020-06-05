@@ -1,0 +1,16 @@
+#content{
+	position: absolute;
+	left: 22%;
+	top: 30%;
+}
+#button{
+	width: 50px;
+	height: 30px;
+	border-width: 0;
+	background-color: rgba(150,150,150,0.3);
+	margin-top: 15px;
+}
+
+#button:active{
+	background-color: rgba(150,150,150,0.7);
+}

@@ -1,0 +1,19 @@
+.container{
+	position: absolute;
+	left: 23%;
+	top: 32%;
+}
+
+.content{
+	position: absolute;
+	left: 23%;
+	top: 32%;
+}
+
+.container li{
+	padding: 20px;
+}
+
+.content li{
+	padding: 20px;
+}

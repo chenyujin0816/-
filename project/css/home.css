@@ -1,0 +1,37 @@
+#content{
+	position: absolute;
+	left: 25%;
+	top: 27%;
+}
+
+#content p{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#content a{
+	text-decoration: none;
+	width: 300px;
+	height: 150px;
+	display: inline-block;
+	margin: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+	border:1px solid #bbb;
+	padding: 3px;
+	box-shadow: 0 0 5px rgba(0,0,0,0.4);
+}
+
+#content img{
+	width: 300px;
+	height: 150px;
+	border:1px solid #bbb;
+	margin-bottom: 12px;
+}
+
+#result{
+	position: absolute;
+	left: 25%;
+	top: 27%;
+}
